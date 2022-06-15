@@ -8,7 +8,7 @@
    - [API 설계](#6-api-설계)
    - [ERD](#7-erd)
 
-* ) COMMENT
+2) COMMENT
    - [1.0버전 COMMENT](#10버전-comment)
 
 <br>
@@ -128,4 +128,8 @@ implementation 'org.springframework.boot:spring-boot-starter-security'
 
 - 프론트엔트 개발자와 협력하는 방법을 알게되었다.
   - 물론 프론트엔드 개발자도 잘하지만 내가 이런 API를 만드려고하는데 요청값은 이렇게 줘야하고 응답값은 프론트단에서 이렇게 사용하도록 이렇게 내려 줄 예정인데 괜찮은지 협의하는 과정을 알게되었다.
+
+### Develop 계획
+1. view단을 좀 더 나의 스타일로 변경하고 싶어서 변경해 볼 예정이다.
+2. 세션방식으로 변경해서 시큐리티를 이용해 볼 예정이다.
  
