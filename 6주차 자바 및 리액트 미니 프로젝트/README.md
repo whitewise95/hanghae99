@@ -109,7 +109,8 @@ implementation 'org.springframework.boot:spring-boot-starter-security'
 # #COMMENT
 ## 1.0버전 COMMENT
 
-### 1) BE서버와 FE서버가 따로 있어 CORS문제를 많이 겪었다. 
+### 1) 힘들었던점 
+>  BE서버와 FE서버가 따로 있어 CORS문제를 많이 겪었다. 
 - 시큐리티를 사용했을 땐 SecurityConfig에 CORS를 설정해줘야한다.
   - [시큐리티 CORS설정](https://github.com/whitewise95/TIL/blob/main/Java/Spring/SpringSecurity/%EC%8A%A4%ED%94%84%EB%A7%81%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0%20CORS%EC%84%A4%EC%A0%95.md)
 - 시큐리티를 사용하지 않을 땐 WebConfig를 만들어 CORS를 설정해줘야한다.
