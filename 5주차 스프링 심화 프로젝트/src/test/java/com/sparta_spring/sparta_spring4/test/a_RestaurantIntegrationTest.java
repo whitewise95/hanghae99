@@ -1,4 +1,4 @@
-package com.sparta_spring.sparta_spring4;
+package com.sparta_spring.sparta_spring4.test;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-class RestaurantIntegrationTest {
+class a_RestaurantIntegrationTest {
     @Autowired
     private TestRestTemplate restTemplate;
 

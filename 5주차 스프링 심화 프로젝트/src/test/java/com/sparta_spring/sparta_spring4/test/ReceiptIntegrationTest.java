@@ -1,4 +1,4 @@
-package com.sparta_spring.sparta_spring4;
+package com.sparta_spring.sparta_spring4.test;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

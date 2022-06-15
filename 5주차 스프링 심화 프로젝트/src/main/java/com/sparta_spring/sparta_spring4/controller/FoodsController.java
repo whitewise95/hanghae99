@@ -6,7 +6,7 @@ import com.sparta_spring.sparta_spring4.service.FoodsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+import java.util.*;
 
 @RequiredArgsConstructor
 @RestController
@@ -23,6 +23,7 @@ public class FoodsController {
     @PostMapping("/{restaurantId}/food/register")
     public void foodsSave(@PathVariable Long restaurantId,
                           @RequestBody List<RequestFoodsDto> requestFoodsDto) {
+
         foodsService.foodsSave(requestFoodsDto, restaurantId);
     }
 }

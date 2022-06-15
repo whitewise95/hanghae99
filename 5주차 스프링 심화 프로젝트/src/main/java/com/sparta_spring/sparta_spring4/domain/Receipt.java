@@ -28,7 +28,7 @@ public class Receipt {
     private int totalPrice;
 
     @OneToMany
-    @JoinColumn(name = "UserOrderFood_id")
+    @JoinColumn(name = "OrderFood_id")
     private List<OrderFood> foods = new ArrayList<>();
 
     public Receipt(RequestReceiptDto requestReceiptDto, List<RequestOrderFoodDto> requestOrderFoodDtos) {
