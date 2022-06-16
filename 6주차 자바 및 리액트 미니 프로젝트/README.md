@@ -37,8 +37,9 @@ FE개발자(리액트)와 BE개발자(스프링)가 5주차까지 배운 내용�
 <br>
 
 # 4. 개발 환경(BE)  
-> 언어
+> 언어 및 개발툴 
 - [java](https://github.com/whitewise95/TIL/tree/main/Java)
+- 인텔리제이
   
 > 프레임워크
 - [스프링프레임워크](https://github.com/whitewise95/TIL/tree/main/Java/Spring)
@@ -47,7 +48,7 @@ FE개발자(리액트)와 BE개발자(스프링)가 5주차까지 배운 내용�
 > 서버환경
 -  [AWS EC2 (Ubuntu 22.04)](https://github.com/whitewise95/TIL/tree/main/AWS/EC2)
   
-> 형상관리 및 툴 그리고 DB
+> 형상관리 툴 그리고 DB
 - [소스트리](https://www.sourcetreeapp.com/).
 - [github](https://github.com/whitewise95).
 - [RDS(MySQL)](https://github.com/whitewise95/TIL/tree/main/AWS/RDS)
