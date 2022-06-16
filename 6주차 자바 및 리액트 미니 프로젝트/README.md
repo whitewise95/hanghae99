@@ -107,7 +107,7 @@ implementation 'org.springframework.boot:spring-boot-starter-security'
 <br>
 <br>
 
-# 8. BE 기여도(객관적) 총 3 명
+# 8. BE 기여도(주관적) 총 3 명
 - 회원가입 - 100%
 - 아이디중복검사 - 100%
 - 닉네임 중복검사 - 0%
