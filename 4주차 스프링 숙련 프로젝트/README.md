@@ -1,6 +1,6 @@
 # #프로젝트 소개 [다운로드링크](https://drive.google.com/file/d/12vV45ZiK4d7q9ipw7qiQkwEjneGA4mhf/view?usp=sharing)
 
-스프링 입문 프로젝트 " [MyBlog](https://github.com/whitewise95/TIL/tree/main/%ED%95%AD%ED%95%B499/project/sparta_spring) " 에서 스프링 시큐리티와 JWT를 사용하여 회원관리 및 로그인 유지와 댓글CRUD도 가능하게 develop 하는 프로젝트 입니다. [MyBlog](https://github.com/whitewise95/TIL/tree/main/%ED%95%AD%ED%95%B499/project/sparta_spring)  링크를 타시면 저번 주차에 어떻게 했는지 확인이 가능합니다.  
+스프링 입문 프로젝트 " [MyBlog](https://github.com/whitewise95/voyage99/tree/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%85%EB%AC%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) " 에서 스프링 시큐리티와 JWT를 사용하여 회원관리 및 로그인 유지와 댓글CRUD도 가능하게 develop 하는 프로젝트 입니다. [MyBlog](https://github.com/whitewise95/voyage99/tree/main/3%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%85%EB%AC%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)  링크를 타시면 저번 주차에 어떻게 했는지 확인이 가능합니다.  
 
 # #이번 프로젝트에서 배운점 및 알게된 점
 > 링크를 타고 들어가면 정리해둔 내용을 확인 할 수 있습니다.
