@@ -18,6 +18,7 @@
 # 1. 프로젝트 소개
 
 본인의 개성을 더해줄 버킷리스트 작성!!
+ [주요 기능 ](https://github.com/whitewise95/voyage99/wiki/6%EC%A3%BC%EC%B0%A8-%EC%9E%90%EB%B0%94-%EB%B0%8F-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)
 
 <br>
 <br>
