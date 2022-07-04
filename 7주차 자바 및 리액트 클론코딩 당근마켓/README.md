@@ -6,6 +6,7 @@
    5) [와이어프레임](#5-와이어프레임)
    6) [API 설계](#6-api-설계)
    7) [ERD](#7-erd)
+   8) [트러블 슈팅 발표 영상](#트러블-슈팅-발표-영상)
 
 <br>
 <br>
@@ -114,4 +115,11 @@ implementation 'javax.validation:validation-api:2.0.1.Final'
 
 # 7. ERD
 ![화면 캡처 2022-06-23 175139](https://user-images.githubusercontent.com/81284265/175258663-9777bf47-4e03-4b50-8fa5-f69f563fbe08.png)
+
+<br>
+<br>
+
+# 트러블 슈팅 발표 영상
+
+[![Video](https://i9.ytimg.com/vi_webp/G3IwZECFC_g/mqdefault.webp?sqp=COS_iZYG&rs=AOn4CLBwbrzUpX_P_ZcCEXKioUs-oyUwcg)](https://youtu.be/G3IwZECFC_g)
 
