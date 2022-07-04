@@ -12,7 +12,11 @@
 <br>
 
 # 1. 프로젝트 소개
-당근 마켓 클론코딩
+당근 마켓 클론코딩   
+
+- 영상 
+
+[![Video](https://media-sparta.s3.amazonaws.com/media/tempvideos/20220623/썸네일_811.png)](https://youtu.be/lweHhvWAbQc)
 
 <br>
 <br>
