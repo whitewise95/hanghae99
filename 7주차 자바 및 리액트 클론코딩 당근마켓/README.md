@@ -125,5 +125,5 @@ implementation 'javax.validation:validation-api:2.0.1.Final'
 
 # 트러블 슈팅 발표 영상
 
-[![Video](https://i9.ytimg.com/vi_webp/G3IwZECFC_g/mqdefault.webp?sqp=COS_iZYG&rs=AOn4CLBwbrzUpX_P_ZcCEXKioUs-oyUwcg)](https://youtu.be/G3IwZECFC_g)
+[![Video](https://youtu.be/G3IwZECFC_g)
 
