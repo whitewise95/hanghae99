@@ -125,4 +125,4 @@ implementation 'javax.validation:validation-api:2.0.1.Final'
 
 # 트러블 슈팅 발표 영상
 
-[![이미지 텍스트](https://i9.ytimg.com/vi/G3IwZECFC_g/mq2.jpg?sqp=CKCWt5cG&rs=AOn4CLBSWKnnnlKAbZGII3aea1xOYcg7Wg)](https://youtu.be/G3IwZECFC_g)
+[![이미지 텍스트](https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc)](https://youtu.be/G3IwZECFC_g)
