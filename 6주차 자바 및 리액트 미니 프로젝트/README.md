@@ -105,23 +105,6 @@ implementation 'org.springframework.boot:spring-boot-starter-security'
 # 7. ERD
 ![화면 캡처 2022-06-10 164751](https://user-images.githubusercontent.com/81284265/173017171-f9becb62-d4ba-48a1-bbda-5d4f3349e404.png)
 
-<br>
-<br>
-
-# 8. BE 기여도(주관적) 총 3 명
-- 회원가입 - 100%
-- 아이디중복검사 - 100%
-- 닉네임 중복검사 - 0%
-- 로그인(시큐리티) - 50%
-- 게시글 작성 - 0%
-- 게시글 수정 - 0%
-- 게시글 삭제 - 0%
-- 게시글 조회 - 0%
-- 프로젝트 초기 세팅 - 100%
-- 서버 배포 - 100%
-- 형상관리 - 50%
-- 프로젝트 전체 중 50% 기여
-
 
 <br>
 <br>
