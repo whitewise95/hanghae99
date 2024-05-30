@@ -1,7 +1,5 @@
 # 1. 객체지향 프로그래밍
-> 주어진 class model를 보고 자유롭게 객체지향으로 프로그래밍 - [GitHub 이동](https://github.com/whitewise95/hanghae99/tree/main/2%EC%A3%BC%EC%B0%A8%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-
-
+> 주어진 class model를 보고 자유롭게 객체지향으로 프로그래밍
 
 
 # 2. class model
